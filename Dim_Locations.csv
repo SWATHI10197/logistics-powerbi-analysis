@@ -1,0 +1,6 @@
+LocationID,City,State,Country,GlobalRegion
+10,New York,NY,USA,AMER
+20,Rotterdam,South Holland,Netherlands,EMEA
+30,Tokyo,Tokyo,Japan,APAC
+40,Los Angeles,CA,USA,AMER
+50,Frankfurt,Hesse,Germany,EMEA

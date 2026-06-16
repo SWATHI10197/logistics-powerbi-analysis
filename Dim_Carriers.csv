@@ -1,0 +1,5 @@
+CarrierID,CarrierName,ServiceLevel
+1,FedEx Express,Express
+2,DHL Global,International
+3,CargoX Freight,Heavy Cargo
+4,Swift Ground Logistics,Ground
